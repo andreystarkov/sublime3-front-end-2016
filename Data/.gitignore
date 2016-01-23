@@ -1,0 +1,5 @@
+Backup/
+Cache/
+Local/
+Index/
+**/node_modules/**
