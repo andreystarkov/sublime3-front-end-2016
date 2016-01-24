@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
 		"AlignTab",
 		"ApacheConf.tmLanguage",
 		"Auto Refresh",
@@ -35,7 +34,6 @@
 		"HTML5",
 		"HTMLAttributes",
 		"HTMLBeautify",
-		"Icon Fonts",
 		"Javascript Beautify",
 		"JavaScript Completions",
 		"JavaScript Multiline",
